@@ -1,0 +1,9 @@
+D:\c# code\NotePad APP\NotePad APP\bin\Debug\NotePad APP.exe.config
+D:\c# code\NotePad APP\NotePad APP\bin\Debug\NotePad APP.exe
+D:\c# code\NotePad APP\NotePad APP\bin\Debug\NotePad APP.pdb
+D:\c# code\NotePad APP\NotePad APP\obj\Debug\NotePad APP.csprojResolveAssemblyReference.cache
+D:\c# code\NotePad APP\NotePad APP\obj\Debug\NotePad_APP.Form1.resources
+D:\c# code\NotePad APP\NotePad APP\obj\Debug\NotePad_APP.Properties.Resources.resources
+D:\c# code\NotePad APP\NotePad APP\obj\Debug\NotePad APP.csproj.GenerateResource.Cache
+D:\c# code\NotePad APP\NotePad APP\obj\Debug\NotePad APP.exe
+D:\c# code\NotePad APP\NotePad APP\obj\Debug\NotePad APP.pdb
